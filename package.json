@@ -1,0 +1,23 @@
+{
+  "name": "jsbalahdir",
+  "version": "1.0.0",
+  "description": "Learning and Stuff",
+  "main": "jsBalah.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node jsBalah.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bgonzal/jsBalahDir.git"
+  },
+  "author": "Bryan Gonzalez Fernandez (bgonzal)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bgonzal/jsBalahDir/issues"
+  },
+  "homepage": "https://github.com/bgonzal/jsBalahDir#readme",
+  "dependencies": {
+    "lib": "^4.3.3"
+  }
+}
